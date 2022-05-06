@@ -750,3 +750,7 @@ pre a {
 #jenkins-home-link {
     display: none !important
 }
+
+svg[class*=anime] {
+    visibility: collapse
+}
